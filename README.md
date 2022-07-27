@@ -23,6 +23,6 @@
   <a href="https://discord.com/users/455037581818724363" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/beneworks/beneworks/blob/output/github-contribution-grid-snake.svg)
 
 </div>
